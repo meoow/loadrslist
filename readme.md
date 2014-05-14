@@ -1,0 +1,1 @@
+# Compare RS list to dbSNP gzip file.
